@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="b8ef9d1c-8319-4740-83c2-588cea30ede5" name="e_commerce@localhost Mapping">
+      <data-sources db="e6f31a84-d08c-41a6-9378-61fba7543167" ddl="d8204a0b-bf58-45c5-95b0-61ca8b74f385" />
+      <scope>
+        <node kind="schema" qname="e_commerce" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d8204a0b-bf58-45c5-95b0-61ca8b74f385" />
+          <option name="name" value="e_commerce@localhost (DDL)" />
+          <option name="dbmsName" value="MARIADB" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/AnnullaOrdine.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/r_AggiornaGiacenzaArticolo.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/r_AggiornaTotOrdine.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/anagrafica.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/art_marche.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/articoli.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/articoli_sottocategorie.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/categorie.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/indirizzi.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/ord_note.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/ord_stati.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/ordini.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/t_Ordini_AggiornaAnnoOrdine.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/t_Ordini_AggiornaNumeroOrdine.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/ordini_dettagli.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/t_Dettagli_TotaleArticolo.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/t_Dettagli_GiacenzaArticolo.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/t_Dettagli_TotaleOrdine.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/reset_contatore_anno.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/ruoli.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/sottocategorie.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/spedizioni.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/utenti.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/utenti_indirizzi.sql" />
+              <option value="file://$PROJECT_DIR$/ddl/e_commerce/utenti_ruoli.sql" />
+            </array>
+          </option>
+          <option name="outPath" value="$PROJECT_DIR$/ddl" />
+          <option name="outLayout" value="File per object by schema.groovy" />
+          <option name="scriptOptions">
+            <map>
+              <entry key="CreateIfNotExists" value="1" />
+            </map>
+          </option>
+          <option name="scopes">
+            <map>
+              <entry key="$PROJECT_DIR$" value="" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

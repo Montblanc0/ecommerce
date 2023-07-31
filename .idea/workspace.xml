@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ecommerce:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b5ec26c-f725-4ae2-ac9d-5cef3241bd09" name="Changes" comment="GitHub initial release">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="com.haulmont.jpb.NewClass" />
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2SAEGdn4KuUCJw9KZV7NPGPAk8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DtoCreateDialog.IS_JSON_IGNORE_UNKNOWN_PROPERTIES": "true",
+    "JPA.DatabaseSchemaImportDialog": "e6f31a84-d08c-41a6-9378-61fba7543167",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "ecommerce",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/home/montblanc/IdeaProjects/ecommerce/e_commerce/e_commerce/utenti_ruoli.sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/home/montblanc/IdeaProjects/ecommerce/node_modules/prettier",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "rearrange.code.on.save": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "db96ff26706a1a3d595ecb67266c2d94",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mariadb"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "MariaDB"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="it.ecommerce.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/it/ecommerce/controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/it/montblanc0/controller" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="it.ecommerce.security.service" />
+      <recent name="it.ecommerce.security" />
+      <recent name="it.ecommerce.security.jwt" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="it.ecommerce.controller" />
+      <recent name="it.ecommerce.service" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Ecommerce">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ecommerce" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ecommerce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="it.ecommerce.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.68" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ecommerce/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ecommerce:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ecommerce_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="57f84d70-0a3a-414d-ade6-9c6c4679a383" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="38767" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="SECRET_KEY" />
+          <option name="VALUE" value="X9y#2FbN6$dR" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ecommerce:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ecommerce1/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ecommerce:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ecommerce" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="eb9020f6-719d-4962-80a3-1c1e677bfb98" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="42953" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="SECRET_KEY" />
+          <option name="VALUE" value="X9y#2FbN6$dR" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+        <EnvironmentVariables>
+          <option name="NAME" value="SECRET_KEY" />
+          <option name="VALUE" value="X9y#2FbN6$dR" />
+          <option name="IS_PREDEFINED" value="false" />
+        </EnvironmentVariables>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ecommerce:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.generated-requests | #1" />
+      <item itemvalue="Spring Boot.Ecommerce" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.68" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.65" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLScriptSettings">
+    <option name="matrix">
+      <map>
+        <entry key="MARIADB.CreateComplete" value="CreateIfNotExists=1" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5ec26c-f725-4ae2-ac9d-5cef3241bd09" name="Changes" comment="" />
+      <created>1688580892063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688580892063</updated>
+      <workItem from="1688580893420" duration="6284000" />
+      <workItem from="1688663113502" duration="6336000" />
+      <workItem from="1688670075626" duration="4959000" />
+      <workItem from="1688745147698" duration="13144000" />
+      <workItem from="1688831409727" duration="286000" />
+      <workItem from="1688835874252" duration="10705000" />
+      <workItem from="1688864386630" duration="1758000" />
+      <workItem from="1688915818805" duration="18388000" />
+      <workItem from="1689012111223" duration="11264000" />
+      <workItem from="1689090006886" duration="2796000" />
+      <workItem from="1689093481740" duration="2883000" />
+      <workItem from="1689124613800" duration="2762000" />
+      <workItem from="1689183718974" duration="125000" />
+      <workItem from="1689183951619" duration="4359000" />
+      <workItem from="1689193638166" duration="8635000" />
+      <workItem from="1689262315222" duration="2784000" />
+      <workItem from="1689265139023" duration="13189000" />
+      <workItem from="1689350668407" duration="2557000" />
+      <workItem from="1689462618807" duration="7588000" />
+      <workItem from="1689526823210" duration="14239000" />
+      <workItem from="1689698350739" duration="10754000" />
+      <workItem from="1689785994610" duration="11420000" />
+      <workItem from="1689866980979" duration="7935000" />
+      <workItem from="1689957407487" duration="12859000" />
+      <workItem from="1690050051379" duration="10462000" />
+      <workItem from="1690126621120" duration="4568000" />
+      <workItem from="1690136654379" duration="13414000" />
+      <workItem from="1690241593334" duration="618000" />
+      <workItem from="1690388172280" duration="72000" />
+      <workItem from="1690388352415" duration="2152000" />
+      <workItem from="1690391415133" duration="826000" />
+      <workItem from="1690392541040" duration="2207000" />
+      <workItem from="1690405351782" duration="13104000" />
+      <workItem from="1690478705698" duration="9646000" />
+      <workItem from="1690568101084" duration="15287000" />
+      <workItem from="1690627247727" duration="17569000" />
+      <workItem from="1690710600046" duration="8277000" />
+      <workItem from="1690742492797" duration="9833000" />
+      <workItem from="1690794542588" duration="4937000" />
+      <workItem from="1690828795815" duration="5440000" />
+    </task>
+    <task id="LOCAL-00001" summary="Hibernate OK">
+      <option name="closed" value="true" />
+      <created>1688680353536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688680353536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="OrdiniDettagli">
+      <option name="closed" value="true" />
+      <created>1688763996868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688763996868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JWT in progress (UserDetails)">
+      <option name="closed" value="true" />
+      <created>1688857079050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688857079050</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TODO: Fix null authentication in SecurityContextHolder.getContext()">
+      <option name="closed" value="true" />
+      <created>1688927495569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688927495569</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Working JWTValidators">
+      <option name="closed" value="true" />
+      <created>1689470706825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689470706825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Working Filter with Stateless Session">
+      <option name="closed" value="true" />
+      <created>1689705698353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689705698353</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added ResponseEntity to /utenti/find/{username}">
+      <option name="closed" value="true" />
+      <created>1689725255227</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689725255227</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed some DTO handling in UtenteDTO">
+      <option name="closed" value="true" />
+      <created>1689813953066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689813953066</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Paging to Articolo">
+      <option name="closed" value="true" />
+      <created>1689879257904</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689879257904</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed Categoria -&gt; Sottocategorie -&gt; Articolo dto mappings + added AbstractService.java">
+      <option name="closed" value="true" />
+      <created>1689977572795</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689977572795</updated>
+    </task>
+    <task id="LOCAL-00011" summary="OrdineNote PrimaryKeyJoinColumn">
+      <option name="closed" value="true" />
+      <created>1690070530440</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690070530440</updated>
+    </task>
+    <task id="LOCAL-00012" summary="OrdineDettagli @Embeddable with DTO mapping">
+      <option name="closed" value="true" />
+      <created>1690158721877</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1690158721877</updated>
+    </task>
+    <task id="LOCAL-00013" summary="simplified user fetch query, refactored ruoloDTO with GrantedAuthority">
+      <option name="closed" value="true" />
+      <created>1690421962552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690421962552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added indirizzi, spedizioni, utenti_indirizzi.">
+      <option name="closed" value="true" />
+      <created>1690505048212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690505048212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="improved dto mapping">
+      <option name="closed" value="true" />
+      <created>1690589772868</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690589772868</updated>
+    </task>
+    <task id="LOCAL-00016" summary="completed entity json testing">
+      <option name="closed" value="true" />
+      <created>1690640104265</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690640104265</updated>
+    </task>
+    <task id="LOCAL-00017" summary="working on converting ordine payload to saveable entity">
+      <option name="closed" value="true" />
+      <created>1690678485619</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1690678485619</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixed triggers, procedures, ordine saving, some ant matchers and @PreAuthorize">
+      <option name="closed" value="true" />
+      <created>1690761356331</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1690761356331</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Final">
+      <option name="closed" value="true" />
+      <created>1690838196177</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690838196177</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added seeds">
+      <option name="closed" value="true" />
+      <created>1690838241023</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690838241023</updated>
+    </task>
+    <task id="LOCAL-00021" summary="GitHub initial release">
+      <option name="closed" value="true" />
+      <created>1690838402164</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1690838402164</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hibernate OK" />
+    <MESSAGE value="OrdiniDettagli" />
+    <MESSAGE value="JWT in progress (UserDetails)" />
+    <MESSAGE value="TODO: Fix null authentication in SecurityContextHolder.getContext()" />
+    <MESSAGE value="Working JWTValidators" />
+    <MESSAGE value="Working Filter with Stateless Session" />
+    <MESSAGE value="Added ResponseEntity to /utenti/find/{username}" />
+    <MESSAGE value="Fixed some DTO handling in UtenteDTO" />
+    <MESSAGE value="Added Paging to Articolo" />
+    <MESSAGE value="fixed Categoria -&gt; Sottocategorie -&gt; Articolo dto mappings + added AbstractService.java" />
+    <MESSAGE value="OrdineNote PrimaryKeyJoinColumn" />
+    <MESSAGE value="OrdineDettagli @Embeddable with DTO mapping" />
+    <MESSAGE value="simplified user fetch query, refactored ruoloDTO with GrantedAuthority" />
+    <MESSAGE value="added indirizzi, spedizioni, utenti_indirizzi." />
+    <MESSAGE value="improved dto mapping" />
+    <MESSAGE value="completed entity json testing" />
+    <MESSAGE value="working on converting ordine payload to saveable entity" />
+    <MESSAGE value="Fixed triggers, procedures, ordine saving, some ant matchers and @PreAuthorize" />
+    <MESSAGE value="Final" />
+    <MESSAGE value="Added seeds" />
+    <MESSAGE value="GitHub initial release" />
+    <option name="LAST_COMMIT_MESSAGE" value="GitHub initial release" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
