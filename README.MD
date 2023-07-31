@@ -25,7 +25,7 @@ main page. Make sure you're not selecting any database, as this file will take c
 e_commerce' and populate it with tables and sample data.
 
 If you'd rather starting clean, you can opt to import the database structure without any data by importing the
-provided `e_commerce_STRUCTURE` instead.
+provided `e_commerce_STRUCTURE.sql` instead.
 
 ### 2. Create an OpenSSL RSA key pair
 
@@ -107,7 +107,7 @@ Example:
 }
 ```
 
-If the authentication is successful, you will receive a JWT
+If the authentication is successful, you will be issued a JWT.
 
 Example:
 
