@@ -12,7 +12,7 @@ e_commerce is a development project built with Maven v3.6.2, Spring Boot v2.7.13
 MariaDB (MySQL) v10.4.28 provided by [XAMPP](https://www.apachefriends.org/index.html) v8.2.4 has been configured as the
 default persistence provider.
 
-A legacy MySQL database formerly used for education purposes has been expanded and tuned to include authentication
+A legacy MySQL database formerly used for educational purposes has been expanded and tuned to include authentication
 details and triggers to automatically create order numbers and to determine the total price by summing up the cost of
 the items net of any discounts.
 
@@ -124,7 +124,7 @@ By default, the token you will get will expire in 60 minutes.
 ## CRUDs
 
 Check out the `src/main/java/it/ecommerce/controller` class files for a complete list of paths and their related HTTP
-method.
+methods.
 
 ### Example: Adding a New Product
 
