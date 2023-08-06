@@ -14,6 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b5ec26c-f725-4ae2-ac9d-5cef3241bd09" name="Changes" comment="GitHub initial release">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/it/ecommerce/security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/ecommerce/security/SecurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +58,10 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2SAEGdn4KuUCJw9KZV7NPGPAk8x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -83,7 +84,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
-    "git-widget-placeholder": "ecommerce",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "/home/montblanc/IdeaProjects/ecommerce/e_commerce/e_commerce/utenti_ruoli.sql",
     "node.js.detected.package.eslint": "true",
@@ -93,7 +94,7 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/home/montblanc/IdeaProjects/ecommerce/node_modules/prettier",
+    "prettierjs.PrettierConfiguration.Package": "/usr/local/lib/node_modules/prettier",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -405,6 +406,7 @@
       <workItem from="1690742492797" duration="9833000" />
       <workItem from="1690794542588" duration="4937000" />
       <workItem from="1690828795815" duration="5440000" />
+      <workItem from="1691357380463" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="Hibernate OK">
       <option name="closed" value="true" />

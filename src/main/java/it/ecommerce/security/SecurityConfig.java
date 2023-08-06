@@ -93,19 +93,11 @@ public class SecurityConfig {
 				.csrf().disable()
 				.cors()
 				.and()
-				.authorizeHttpRequests(authorize ->             // Here we set authentication for all endpoints
+				.authorizeHttpRequests(authorize ->
 						authorize
 								.antMatchers("/api/auth/register").permitAll()
 								.antMatchers("/api/auth/login").permitAll()
 								.antMatchers("/api/auth/ruoli").hasRole("AMMINISTRATORE")
-//								.antMatchers("/api/auth/spedizioni").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("/api/auth/sottocategorie").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("api/auth/ordini/stati").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("api/auth/ordini/note").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("api/auth/ordini/dettagli").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("api/auth/categorie").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("api/auth/articoli").hasAnyRole("AMMINISTRATORE, VENDITORE")
-//								.antMatchers("api/auth/anagrafiche").hasAnyRole("AMMINISTRATORE, VENDITORE")
 								.anyRequest().authenticated())
 				.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
 				.and()
